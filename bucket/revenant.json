@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/lobotomoe/revenant/releases/download/v1.0.0/revenant-windows-x64.zip",
-            "hash": "c82c273d87eb022fcd9dc6d68dc81721b8652c35851222ae556091e1e1cd204d"
+            "hash": "4701472893144122d999e48e3d712680f258895fc381012293de6b53ea1cc17d"
         }
     },
     "bin": [
