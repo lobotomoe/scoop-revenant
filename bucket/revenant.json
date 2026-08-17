@@ -1,12 +1,12 @@
 {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "description": "Electronic document signing with ARX CoSign (SOAP/DSS)",
     "homepage": "https://github.com/lobotomoe/revenant",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lobotomoe/revenant/releases/download/v3.0.3/revenant-windows-x64.zip",
-            "hash": "a58a5bac34e30a6fef0118dd70d6a1cb6d6a42c33138e99d99c783a7c3359c9a"
+            "url": "https://github.com/lobotomoe/revenant/releases/download/v3.0.4/revenant-windows-x64.zip",
+            "hash": "a82cac8995054be3e78a21e1116d83c0c7bee1535db1b51cceb4a3870c4abd5e"
         }
     },
     "bin": [
